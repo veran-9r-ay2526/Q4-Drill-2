@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/64/3d/ca/643dca4e693cd678b73a4ad3313dc65b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-box{
+    border-radius: 10px;
+    margin-top: 250px;
+}
